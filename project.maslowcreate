@@ -202,6 +202,20 @@
                     ]
                 },
                 {
+                    "atomType": "ShrinkWrap",
+                    "name": "Shrink Wrap",
+                    "x": 393,
+                    "y": 86,
+                    "uniqueID": 775976,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 129409",
+                            "ioValue": 10
+                        }
+                    ],
+                    "closedSelection": 0
+                },
+                {
                     "atomType": "Circle",
                     "name": "Circle",
                     "x": 284,
