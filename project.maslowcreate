@@ -158,19 +158,19 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 8
+                            "ioValue": 10
                         },
                         {
                             "name": "y length",
-                            "ioValue": 20
+                            "ioValue": 10
                         }
                     ]
                 },
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 295,
-                    "y": 50,
+                    "x": 284,
+                    "y": 45,
                     "uniqueID": 225460,
                     "ioValues": [
                         {
